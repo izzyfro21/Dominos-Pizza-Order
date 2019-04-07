@@ -1,5 +1,5 @@
 # Dominos-Pizza-Order
-This program orders dominos for you if you enter the correct information (name, address, and credit card info).
+This program will order dominos for you if you enter the correct information (name, address, and credit card info).
 
 You must have npm, node, and pizzapi installed before running this python file
 
