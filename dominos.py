@@ -54,4 +54,4 @@ if(abort == "y"):
 	print("Your order in camcelled")
 else:
 	print("Your order has been placed")
-	order2.place(card)
+	order.place(card)
